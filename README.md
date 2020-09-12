@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AI algorithm
 - 💬 Ask me about Machine learning
 - 📫 How to reach me: yusufhazerhan@yahoo.com
+
+###
